@@ -1,0 +1,14 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "Javascript exercises from w3resource",
+  "main": "index.js",
+  "author": "Siam Hasan",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
